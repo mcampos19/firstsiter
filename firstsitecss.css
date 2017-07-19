@@ -1,0 +1,11 @@
+img {margin-top:400px;
+ margin-left: 650px;}
+ #about {margin-right: 50px;}
+p{text-align: center;}
+#blank{opacity: 0.0}
+table{border-spacing: 50px;
+	margin-left: 350px;}
+	tr{font-size: 2.0em;
+		font-style: italic;
+		color: aqua; }
+		a {color:inherit;}
